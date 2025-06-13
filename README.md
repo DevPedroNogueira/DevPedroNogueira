@@ -13,6 +13,10 @@ profissionalmente. Busco uma oportunidade de aprender e me desenvolver cada vez 
 Acesse meu "[Instagram](https://www.instagram.com/pedrovinicius_nog/)"
 E tambem o meu "[Linkedin](www.linkedin.com/in/devpedronogueira)"
 
+[![Email](https://img.shields.io/badge/Email-devpedronogueiraoficial@gmail.com-black?style=flat&logo=gmail)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contato-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/+5535984123723)
+
+
 <p align="left">
 <a href="https://github.com/DevPedroNogueira?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/DevPedroNogueira?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
