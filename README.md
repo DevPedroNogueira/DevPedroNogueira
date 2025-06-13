@@ -13,8 +13,7 @@ profissionalmente. Busco uma oportunidade de aprender e me desenvolver cada vez 
 Acesse meu "[Instagram](https://www.instagram.com/pedrovinicius_nog/)"
 E tambem o meu "[Linkedin](www.linkedin.com/in/devpedronogueira)"
 
-[![Email](https://img.shields.io/badge/Email-devpedronogueiraoficial@gmail.com-black?style=flat&logo=gmail)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contato-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/+5535984123723)
+![Email](https://img.shields.io/badge/Email-devpedronogueiraoficial@gmail.com-black?style=flat&logo=gmail)
 
 
 <p align="left">
